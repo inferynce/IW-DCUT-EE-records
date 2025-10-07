@@ -131,7 +131,3 @@ ggplot(IWdata, aes(x=Date, y=Time_seconds, color=Map)) +
         # panel.background = element_rect(fill = 'white'),
         # panel.grid.major = element_line(color = "black"),
         legend.key = element_blank())          # Remove legend key background color
-  # annotate("text", x = 4, y = 25, label = "Some text")
-# 
-
-#EXPORT: PDF (9.01 x 6.65), landscape. Screenshot(snip) it for discord sharing
