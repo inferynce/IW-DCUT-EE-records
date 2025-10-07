@@ -128,6 +128,4 @@ ggplot(IWdata, aes(x=Date, y=Time_seconds, color=Map)) +
     expand=c(0,0)) + #expand prevents the plot from expanding/showing the plot greater than limits set
   ggtitle("IW DCUT F&F Speedrun Records") +
   theme(plot.title = element_text(hjust = 0.5), #centering title
-        # panel.background = element_rect(fill = 'white'),
-        # panel.grid.major = element_line(color = "black"),
-        legend.key = element_blank())          # Remove legend key background color
+        legend.key = element_blank()) # Remove legend key background color
