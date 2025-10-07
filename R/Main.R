@@ -1,10 +1,14 @@
-# library(tidyverse)
-# library(ggrepel)
+#library(tidyverse)
+#library(ggrepel)
+#library(here)
 
+#Data scraped 5/10/25
 
-#Data (scraped 5/10/25)
-IWdata <- read_csv("C:/Users/ryano/OneDrive/Documents/ZWR Speedrun Project/Raw Data/zwr_combined_leaderboard.csv", #PUB C:/.../name.csv
-col_types = cols(Time = col_character()))
+#Source data
+source(here("R", "Load.R"))  
+
+head(IWdata)
+
 
 #Remove date suffixes
 IWdata$Date <- gsub("(\\d+)(st|nd|rd|th)", "\\1", IWdata$Date)
