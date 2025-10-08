@@ -66,7 +66,7 @@ IWdata$Map <- factor(IWdata$Map, levels = c("Spaceland", "Rave", "Shaolin", "Att
 #Plot
 ggplot(IWdata, aes(x=Date, y=Time_seconds, color=Map)) +
   labs(x = "", y = "Time",
-       caption = "*Doesn't account for runs not submitted, runs taken down, or different upload dates") + #Footnote
+       caption = "*Doesn't account for runs not submitted, runs taken down, or different upload dates. Data scraped 5/10/25.") + #Footnote
   geom_point(size=4, 
              stroke=0, #edge of the circles?
              alpha = 0.3) + #transparency
