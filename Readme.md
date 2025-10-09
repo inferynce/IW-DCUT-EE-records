@@ -1,3 +1,5 @@
+# Infinite Warfare Easter Egg Speedrun Visualization
+
 This is a simple data visualization of all speedrun records in the
 Zombies mode for the game *Call of Duty: Infinite Warfare*.
 Specifically, this is for the Easter Egg speedruns in the **‘Solo
@@ -9,17 +11,17 @@ Director’s Cut (Fate & Fortune Cards)’** category. World record holders
 ## Breakdown
 
 -   Each colored circle represents one solo run submitted.
--   Runners can may have multiple cirlces if they submit to more than
-    one map.
+-   Runners may have multiple cirlces if they submit to more than one
+    map, but no more than one circle per map.
 -   Maps have different limitations for EE speed, resulting in somewhat
-    of a “rainbow” effect.
--   While this game is from 2016, no records are listed farther back
+    of a vertical “rainbow” effect.
+-   While this game is from 2016, no records are listed further back
     than 2020. This is likely due to things like popularity and how
     Zombies World Record (ZWR) manages their boards (e.g. removing
     records from videos taken down, replacing a player’s slower times
     with their fastest time, etc)
-    -   I’d like to track WR progression or popularity over time but
-        this board design seems to prevent this.
+    -   I’d like to track WR progression or overall popularity over time
+        but this board design seems to prevent this.
 
 ## Process
 
