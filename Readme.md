@@ -11,13 +11,13 @@ Director’s Cut (Fate & Fortune Cards)’** category. World record holders
 ## Breakdown
 
 -   Each colored circle represents one solo run submitted.
--   Runners may have multiple cirlces if they submit to more than one
+-   Runners may have multiple circles if they submit to more than one
     map, but no more than one circle per map.
 -   Maps have different limitations for EE speed, resulting in somewhat
     of a vertical “rainbow” effect.
 -   While this game is from 2016, no records are listed further back
     than 2020. This is likely due to things like popularity and how
-    Zombies World Record (ZWR) manages their boards (e.g. removing
+    Zombies World Records (ZWR) manages their boards (e.g. removing
     records from videos taken down, replacing a player’s slower times
     with their fastest time, etc)
     -   I’d like to track WR progression or overall popularity over time
@@ -41,7 +41,7 @@ The current leaderboard can be found here:
 -   Overlapping circles are difficult to parse.
 -   Even with the gridlines, this graph doesn’t lend itself well to
     comparing data points across years.
--   The few outliers on time stretch the scaling out, bunching up the
+-   The few outliers for time stretch the scaling out, bunching up the
     data more.
 -   I’m not sure what to make of the shape of the data, particularly the
     middle gap. There could be many explanations (e.g. lull in the
